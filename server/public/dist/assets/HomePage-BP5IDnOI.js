@@ -1,0 +1,1 @@
+import{u as t,r,j as e,L as o}from"./index-D6Gusm_8.js";function u(){const{fetchCustomers:s}=t();return r.useEffect(()=>{s()}),e.jsx(o,{children:e.jsx("h1",{children:"Preview"})})}export{u as default};
